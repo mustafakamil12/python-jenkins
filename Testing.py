@@ -4,4 +4,4 @@ def math_test (n):
  return n+1
 
 def test_answer ():
- assert math_test(3) == 5
+ assert math_test(3) == 4
