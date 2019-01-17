@@ -1,1 +1,1 @@
-print ( 'Hello Mustafa' ) ;
+print ('Hello Mustafa')
